@@ -3,7 +3,9 @@ parcels_quantitative_202004
 
 # OceanParcels quantitative experiments
 
-This folder holds Jupyter notebooks developed by Alan Fox, from originals provided for a workshop held at GEOMAR (Jan 2020), for experiments in getting quantitative information on ocean transport routes and overflows from particle tracking with Ocean Parcels and Viking20x.
+This project is to get quantitative, time varying, 3D volume transport information and pathways from an ocean model via lagrangian particle tracking.
+
+This repository mostly holds Jupyter notebooks developed by Alan Fox, from originals provided for a workshop held at GEOMAR (Jan 2020), for exploratory experiments in getting quantitative information on ocean transport routes and overflows from particle tracking with Ocean Parcels and Viking20x.
 
 The main idea is that each particle is assigned a volume transport which it maintains throughout its life. By sourcing particles on vertical sections in the ocean across significant straits we can estimate the sources and destinations by volume.
 
