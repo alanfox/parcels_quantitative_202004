@@ -2,4 +2,4 @@
 #
 # Name                    Version                   Build  Channel
 
-numpy                     1.18.1           py37h7687784_1    conda-forge
+numpy 
