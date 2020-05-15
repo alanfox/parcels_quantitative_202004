@@ -2,7 +2,7 @@
 
 from Viking20X model by Lagrangian particle tracking
 
-2000 particles on each section run backwards and forwards for 2 years
+2000 particles on each section are run backwards and forwards for 2 years
 
 on 16 December 2015
 
