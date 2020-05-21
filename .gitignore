@@ -88,6 +88,7 @@ target/
 # Mypy cache
 .mypy_cache/
 
-# Ignore generated html and animation files
+# Ignore generated html, figure and animation files
 *.html
 *.mp4
+*.png
